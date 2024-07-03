@@ -1,5 +1,7 @@
-<!-- <!-- <server><variable name="wlp.password.encryption.key" value="MyEncKey123"></variable>-->
-<server>
+<!-- <server>
+	<variable name="wlp.password.encryption.key" value="MyEncKey123"></variable> -->
+	
+<server> 
     <featureManager>
 		<feature>servlet-3.1</feature>
         <feature>jsp-2.3</feature>
